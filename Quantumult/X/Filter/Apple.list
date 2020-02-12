@@ -13,3 +13,13 @@ DOMAIN-SUFFIX,me.com,Apple
 DOMAIN-SUFFIX,mzstatic.com,Apple
 DOMAIN,www-cdn.icloud.com.akadns.net,Apple
 IP-CIDR,17.0.0.0/8,Apple
+
+# > Apple News and Apple Map TOMTOM Version
+DOMAIN,gspe1-ssl.ls.apple.com,Apple
+USER-AGENT,AppleNews*,Apple
+USER-AGENT,com.apple.news*,Apple
+DOMAIN-SUFFIX,apple.news,Apple
+DOMAIN,news-client.apple.com,Apple
+DOMAIN,news-edge.apple.com,Apple
+DOMAIN,news-events.apple.com,Apple
+DOMAIN,apple.comscoreresearch.com,Apple
