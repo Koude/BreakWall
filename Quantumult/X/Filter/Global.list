@@ -427,6 +427,10 @@ DOMAIN-SUFFIX,xfinity.com,Global
 DOMAIN-SUFFIX,zattoo.com,Global
 USER-AGENT,Roam*,Global
 
+# > Speedtest by Ookla
+USER-AGENT,SpeedTest*,Global
+DOMAIN-KEYWORD,speedtest,Global
+
 # (The Most Popular Sites)
 # > Apple
 # >> TestFlight
